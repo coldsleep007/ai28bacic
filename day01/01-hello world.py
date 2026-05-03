@@ -17,5 +17,5 @@ print(type(d))
 print(type(e))
 print(type(f))
 print(isinstance(a, int))  # 判断a是否是int类型
-product_name = 'iphone'
+product_name = 'iphone...'
 
